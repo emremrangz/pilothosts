@@ -59,7 +59,7 @@ Deploy the OVA inside your own infrastructure. No agents. No SaaS dependency. No
 | **Agents required** | None |
 | **Internet required** | No, after initial deployment |
 | **Supported platforms** | VMware vCenter / ESXi, selected Kubernetes & OpenShift |
-| **Authentication** | Local, LDAP / Active Directory |
+| **Authentication** | Local, LDAP / Active Directory / Microsoft Entra ID |
 
 ---
 
